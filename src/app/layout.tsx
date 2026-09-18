@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: "Favre Sociedade de Advogados",
+  description: "Tradição, experiência e planejamento jurídico estratégico.",
 };
 
 export default function RootLayout({
